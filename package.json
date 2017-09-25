@@ -1,0 +1,27 @@
+{
+  "name": "modulos-kevmch-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-MII-CA-1718/modulos-KevMCh-Client.git"
+  },
+  "keywords": [
+    "module",
+    "oop-module",
+    "inheritance-module"
+  ],
+  "author": "Kevin Martín Chinea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-MII-CA-1718/modulos-KevMCh-Client/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-MII-CA-1718/modulos-KevMCh-Client#readme",
+  "dependencies": {
+    "@kevmch/oop": "^2.0.3"
+  }
+}
