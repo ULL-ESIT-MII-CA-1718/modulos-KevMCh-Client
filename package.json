@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/ULL-ESIT-MII-CA-1718/modulos-KevMCh-Client#readme",
   "dependencies": {
-    "@kevmch/oop": "^2.0.3"
+    "@kevmch/oop": "^2.0.5"
   }
 }
